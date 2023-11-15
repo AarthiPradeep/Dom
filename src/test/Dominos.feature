@@ -12,4 +12,4 @@ Feature: Placing order in Dominos Website
     And Recheck the cart to delete an item from cart
     Then Click the checkout button
 
-    #simplyyy
+#    And Add Two quantities of Margherita pizza to the cart
