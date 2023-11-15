@@ -13,3 +13,4 @@ Feature: Placing order in Dominos Website
     Then Click the checkout button
 
     #simplyyy
+#    Then Click the checkout button
